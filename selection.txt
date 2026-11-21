@@ -1,0 +1,6 @@
+WINNER
+drafts/b.md wins because it leads with a documented receivership, distinguishes the court’s actions from the agencies’ allegations, and identifies which claims rely on secondary reporting.
+
+RANKING
+2. drafts/a.md covers a consequential UK regulatory change from the statutory record, but carries a 13 November Binance item outside its stated sweep without acknowledging the exception and leaves its verification cuts unnamed.
+3. drafts/c.md leads with a timely collapse and names its verification gaps, but states an unverified key leak in the headline and relies on secondary reporting despite an available original on-chain investigation.
